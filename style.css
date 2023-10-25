@@ -1,3 +1,23 @@
+/* CSS Mock Exercises */
+
+/* Uncomment the import line to switch between exercises */
+
+/* Exercise 1 */
+@import "exercise1.css";
+
+/* Exercise 2 */
+/* @import "exercise2.css"; */
+
+/* Exercise 3 */
+/* @import "exercise3.css"; */
+
+/* Exercise 4 */
+/* @import "exercise4.css"; */
+
+/* Exercise 5 */
+@import "exercise5.css";
+
+
 body {
   margin: 0;
   border: 5px solid black;

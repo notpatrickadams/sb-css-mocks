@@ -1,0 +1,17 @@
+.two {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.four {
+    position: fixed;
+    top: 5px;
+    left: 5px;
+}
+
+/* put this above the two element */
+.three {
+    position: relative;
+    top: -200px;
+}
